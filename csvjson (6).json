@@ -1,0 +1,2362 @@
+[
+  {
+    "image": "",
+    "id": 1,
+    "Auteur": "Martine ABALL�A",
+    "Nationalite": "americaine et francaise",
+    "Titre": "Affiche Fant�mes n�glig�s, couloirs �vapor�s",
+    "Date_de_creation": 1996,
+    "Image": "image001.jpg",
+    "Couleur": "171,160,150"
+  },
+  {
+    "image": "",
+    "id": 2,
+    "Auteur": "AGN�S DAHAN STUDIO, Constance GUISSET",
+    "Nationalite": "",
+    "Titre": "Affiche-programme d'Une Saison Graphique 2016",
+    "Date_de_creation": 2016,
+    "Image": "image002.jpg",
+    "Couleur": "27,46,69"
+  },
+  {
+    "image": "",
+    "id": 3,
+    "Auteur": "Leonor ANTUNES",
+    "Nationalite": "portugaise",
+    "Titre": "sunday # 019. Le hasard est l'ennemi de tous les m�tres",
+    "Date_de_creation": 2012,
+    "Image": "image003.jpg",
+    "Couleur": "35,35,35"
+  },
+  {
+    "image": "",
+    "id": 4,
+    "Auteur": "Leonor ANTUNES",
+    "Nationalite": "portugaise",
+    "Titre": "Grid Dancing",
+    "Date_de_creation": 2013,
+    "Image": "image004.jpg",
+    "Couleur": "56,55,55"
+  },
+  {
+    "image": "",
+    "id": 5,
+    "Auteur": "Isabelle ARTHUIS",
+    "Nationalite": "francaise",
+    "Titre": "Affiche Le Banquet",
+    "Date_de_creation": 2011,
+    "Image": "image005.jpg",
+    "Couleur": "203,200,186"
+  },
+  {
+    "image": "",
+    "id": 6,
+    "Auteur": "Farah ATASSI",
+    "Nationalite": "francaise",
+    "Titre": "Atelier",
+    "Date_de_creation": 2016,
+    "Image": "image006.jpg",
+    "Couleur": "225,223,212"
+  },
+  {
+    "image": "",
+    "id": 7,
+    "Auteur": "Elena BAJO",
+    "Nationalite": "espagnole",
+    "Titre": "The Absence of Work",
+    "Date_de_creation": 2012,
+    "Image": "image007.jpg",
+    "Couleur": "191,186,171"
+  },
+  {
+    "image": "",
+    "id": 8,
+    "Auteur": "Amy BALKIN",
+    "Nationalite": "americaine",
+    "Titre": "Affiche The Atmosphere : A Guide\n(L'Atmosph�re : un guide)",
+    "Date_de_creation": 2013,
+    "Image": "image008.jpg",
+    "Couleur": "216,217,221"
+  },
+  {
+    "image": "",
+    "id": 9,
+    "Auteur": "Eva BARTO",
+    "Nationalite": "francaise",
+    "Titre": "Farewell",
+    "Date_de_creation": 2016,
+    "Image": "image009.jpg",
+    "Couleur": "152,139,121"
+  },
+  {
+    "image": "",
+    "id": 10,
+    "Auteur": "Eva BARTO",
+    "Nationalite": "francaise",
+    "Titre": ", there is none",
+    "Date_de_creation": 2017,
+    "Image": "image010.jpg",
+    "Couleur": "222,222,222"
+  },
+  {
+    "image": "",
+    "id": 11,
+    "Auteur": "Erica BAUM",
+    "Nationalite": "americaine",
+    "Titre": "Acropolis Columns Art 3",
+    "Date_de_creation": 2013,
+    "Image": "image011.jpg",
+    "Couleur": "149,149,149"
+  },
+  {
+    "image": "",
+    "id": 12,
+    "Auteur": "Erica BAUM",
+    "Nationalite": "americaine",
+    "Titre": "ART from Museum 17",
+    "Date_de_creation": 2013,
+    "Image": "image012.jpg",
+    "Couleur": "58,58,58"
+  },
+  {
+    "image": "",
+    "id": 13,
+    "Auteur": "Isolde BAUMGART",
+    "Nationalite": "allemande",
+    "Titre": "Images internationales pour les droits de l'homme et du citoyen",
+    "Date_de_creation": 1988,
+    "Image": "image013.jpg",
+    "Couleur": "122,74,55"
+  },
+  {
+    "image": "",
+    "id": 14,
+    "Auteur": "Martine BEDIN",
+    "Nationalite": "francaise",
+    "Titre": "Affiche Memphis",
+    "Date_de_creation": 1980,
+    "Image": "image014.jpg",
+    "Couleur": "178,176,171"
+  },
+  {
+    "image": "",
+    "id": 15,
+    "Auteur": "Polly BERTRAM",
+    "Nationalite": "suisse",
+    "Titre": "Affiche Mains et barreaux",
+    "Date_de_creation": 1995,
+    "Image": "image015.JPG",
+    "Couleur": "221,221,222"
+  },
+  {
+    "image": "",
+    "id": 16,
+    "Auteur": "Julia BINFIELD",
+    "Nationalite": "",
+    "Titre": "Affiche Networks & system management Olivetti",
+    "Date_de_creation": 1993,
+    "Image": "image016.jpg",
+    "Couleur": "212,206,196"
+  },
+  {
+    "image": "",
+    "id": 17,
+    "Auteur": "Karina BISCH",
+    "Nationalite": "francaise",
+    "Titre": "Modernist Poncho",
+    "Date_de_creation": 2018,
+    "Image": "image017.jpg",
+    "Couleur": "29,33,112"
+  },
+  {
+    "image": "",
+    "id": 18,
+    "Auteur": "Katinka BOCK",
+    "Nationalite": "allemande",
+    "Titre": "sunday #041. Between arrival and departure",
+    "Date_de_creation": 2016,
+    "Image": "image018.jpg",
+    "Couleur": "191,196,202"
+  },
+  {
+    "image": "",
+    "id": 19,
+    "Auteur": "Delphine BOESCHLIN",
+    "Nationalite": "francaise",
+    "Titre": "Une Kermess Graphique 2014",
+    "Date_de_creation": 2014,
+    "Image": "image019.jpg",
+    "Couleur": "138,129,45"
+  },
+  {
+    "image": "",
+    "id": 20,
+    "Auteur": "Diane BOIVIN",
+    "Nationalite": "francaise",
+    "Titre": "Affiche de la Saison Graphique",
+    "Date_de_creation": 2014,
+    "Image": "image020.jpg",
+    "Couleur": "154,152,151"
+  },
+  {
+    "image": "",
+    "id": 21,
+    "Auteur": "Diane BOIVIN",
+    "Nationalite": "francaise",
+    "Titre": "Affiche de la Saison Graphique",
+    "Date_de_creation": 2014,
+    "Image": "image021.jpg",
+    "Couleur": "223,221,217"
+  },
+  {
+    "image": "",
+    "id": 22,
+    "Auteur": "Diane BOIVIN",
+    "Nationalite": "francaise",
+    "Titre": "Affiche Une saison graphique 2014",
+    "Date_de_creation": 2014,
+    "Image": "image022.JPG",
+    "Couleur": "221,221,222"
+  },
+  {
+    "image": "",
+    "id": 23,
+    "Auteur": "Melanie BONAJO",
+    "Nationalite": "neerlandaise",
+    "Titre": "Gender neutral toilet",
+    "Date_de_creation": 2018,
+    "Image": "image023.jpg",
+    "Couleur": "224,223,217"
+  },
+  {
+    "image": "",
+    "id": 24,
+    "Auteur": "Elvire BONDUELLE",
+    "Nationalite": "francaise",
+    "Titre": "Maison Voiture Chien",
+    "Date_de_creation": 2015,
+    "Image": "image024.jpg",
+    "Couleur": "241,238,230"
+  },
+  {
+    "image": "",
+    "id": 25,
+    "Auteur": "Betty BONE",
+    "Nationalite": "francaise",
+    "Titre": "Affiche Une saison graphique 2012",
+    "Date_de_creation": 2012,
+    "Image": "image025.JPG",
+    "Couleur": "30,33,32"
+  },
+  {
+    "image": "",
+    "id": 26,
+    "Auteur": "Irma BOOM",
+    "Nationalite": "neerlandaise",
+    "Titre": "Affiche Design",
+    "Date_de_creation": "s.d.",
+    "Image": "image026.jpg",
+    "Couleur": "217,214,210"
+  },
+  {
+    "image": "",
+    "id": 27,
+    "Auteur": "Sarah BORIS",
+    "Nationalite": "francaise",
+    "Titre": "Affiche de la Saison Graphique",
+    "Date_de_creation": 2015,
+    "Image": "image027.jpg",
+    "Couleur": "23,38,78"
+  },
+  {
+    "image": "",
+    "id": 28,
+    "Auteur": "Sarah BORIS",
+    "Nationalite": "francaise",
+    "Titre": "Affiche de la Saison Graphique",
+    "Date_de_creation": 2015,
+    "Image": "image028.jpg",
+    "Couleur": "49,40,32"
+  },
+  {
+    "image": "",
+    "id": 29,
+    "Auteur": "Claire BRETECHER",
+    "Nationalite": "francaise",
+    "Titre": "Affiche pour la f�te de la musique",
+    "Date_de_creation": 1991,
+    "Image": "image029.JPG",
+    "Couleur": "219,219,220"
+  },
+  {
+    "image": "",
+    "id": 30,
+    "Auteur": "Marcelle CAHN",
+    "Nationalite": "francaise",
+    "Titre": "Affiche d'exposition",
+    "Date_de_creation": "s.d.",
+    "Image": "image030.jpg",
+    "Couleur": "67,115,85"
+  },
+  {
+    "image": "",
+    "id": 31,
+    "Auteur": "Sophie CALLE",
+    "Nationalite": "francaise",
+    "Titre": "Affiche Sans titre",
+    "Date_de_creation": 1996,
+    "Image": "image031.jpg",
+    "Couleur": "42,38,40"
+  },
+  {
+    "image": "",
+    "id": 32,
+    "Auteur": "CASA FACTORI, Laure MATERNATI",
+    "Nationalite": "",
+    "Titre": "Affiche Mains",
+    "Date_de_creation": 1995,
+    "Image": "image032.JPG",
+    "Couleur": "203,201,201"
+  },
+  {
+    "image": "",
+    "id": 33,
+    "Auteur": "Laurie CHARLES",
+    "Nationalite": "belge",
+    "Titre": "Saturn return",
+    "Date_de_creation": 2017,
+    "Image": "image033.jpg",
+    "Couleur": "86,68,43"
+  },
+  {
+    "image": "",
+    "id": 34,
+    "Auteur": "Nina CHILDRESS",
+    "Nationalite": "francaise et americaine",
+    "Titre": "Karen Concert",
+    "Date_de_creation": 2018,
+    "Image": "image034.jpg",
+    "Couleur": "46,36,34"
+  },
+  {
+    "image": "",
+    "id": 35,
+    "Auteur": "Julia CHURCH",
+    "Nationalite": "britannique",
+    "Titre": "Images internationales pour les droits de l'homme et du citoyen",
+    "Date_de_creation": 1988,
+    "Image": "image035.jpg",
+    "Couleur": "57,156,201"
+  },
+  {
+    "image": "",
+    "id": 36,
+    "Auteur": "Jagna CIUCHTA",
+    "Nationalite": "polonaise",
+    "Titre": "All Available Light with Smuggling Smuggling by C�line Vach�-Olivieri",
+    "Date_de_creation": 2017,
+    "Image": "image036.jpg",
+    "Couleur": "132,121,207"
+  },
+  {
+    "image": "",
+    "id": 37,
+    "Auteur": "Delphine COINDET",
+    "Nationalite": "francaise",
+    "Titre": "Etude Prismes",
+    "Date_de_creation": 2018,
+    "Image": "image037.jpg",
+    "Couleur": "44,134,142"
+  },
+  {
+    "image": "",
+    "id": 38,
+    "Auteur": "Pauline CURNIER JARDIN",
+    "Nationalite": "francaise",
+    "Titre": "Ongle",
+    "Date_de_creation": 2016,
+    "Image": "image038.jpg",
+    "Couleur": "29,33,42"
+  },
+  {
+    "image": "",
+    "id": 39,
+    "Auteur": "Jil DANIEL, Suzanne HETZEL",
+    "Nationalite": "",
+    "Titre": "Affiche Mainzer Landstrasse",
+    "Date_de_creation": 2008,
+    "Image": "image039.JPG",
+    "Couleur": "232,232,233"
+  },
+  {
+    "image": "",
+    "id": 40,
+    "Auteur": "Sara DE BONDT",
+    "Nationalite": "belge",
+    "Titre": "Affiche de la Saison Graphique",
+    "Date_de_creation": 2011,
+    "Image": "image040.jpg",
+    "Couleur": "233,66,58"
+  },
+  {
+    "image": "",
+    "id": 41,
+    "Auteur": "Sara DE BONDT",
+    "Nationalite": "belge",
+    "Titre": "Affiche Une saison graphique 2011",
+    "Date_de_creation": 2011,
+    "Image": "image041.JPG",
+    "Couleur": "198,198,197"
+  },
+  {
+    "image": "",
+    "id": 42,
+    "Auteur": "Sara DE BONDT",
+    "Nationalite": "belge",
+    "Titre": "Affiche Une saison graphique 2011",
+    "Date_de_creation": 2011,
+    "Image": "image042.JPG",
+    "Couleur": "46,43,84"
+  },
+  {
+    "image": "",
+    "id": 43,
+    "Auteur": "Caroline DELIEUTRAZ",
+    "Nationalite": "francaise",
+    "Titre": "art_and_sneakers",
+    "Date_de_creation": 2018,
+    "Image": "image043.JPG",
+    "Couleur": "209,203,200"
+  },
+  {
+    "image": "",
+    "id": 44,
+    "Auteur": "Caroline DELIEUTRAZ",
+    "Nationalite": "francaise",
+    "Titre": "Les circulations impures",
+    "Date_de_creation": 2020,
+    "Image": "image044.JPG",
+    "Couleur": "220,220,220"
+  },
+  {
+    "image": "",
+    "id": 45,
+    "Auteur": "Mirtha DERMISACHE",
+    "Nationalite": "argentine",
+    "Titre": "Lectura publica",
+    "Date_de_creation": 2005,
+    "Image": "image045.jpg",
+    "Couleur": "213,213,213"
+  },
+  {
+    "image": "",
+    "id": 46,
+    "Auteur": "Thea DJORDJADZE",
+    "Nationalite": "georgienne",
+    "Titre": "sunday # 031. Untitled",
+    "Date_de_creation": 2014,
+    "Image": "image046.jpg",
+    "Couleur": "214,216,216"
+  },
+  {
+    "image": "",
+    "id": 47,
+    "Auteur": "Nathalie DU PASQUIER",
+    "Nationalite": "francaise",
+    "Titre": "Affiche",
+    "Date_de_creation": 1983,
+    "Image": "image047.jpg",
+    "Couleur": "25,92,107"
+  },
+  {
+    "image": "",
+    "id": 48,
+    "Auteur": "Nathalie DU PASQUIER",
+    "Nationalite": "francaise",
+    "Titre": "Affiche Memphis",
+    "Date_de_creation": 1983,
+    "Image": "image048.JPG",
+    "Couleur": "211,203,109"
+  },
+  {
+    "image": "",
+    "id": 49,
+    "Auteur": "Sophie DUBOSC",
+    "Nationalite": "francaise",
+    "Titre": "Epreuve",
+    "Date_de_creation": 2015,
+    "Image": "image049.jpg",
+    "Couleur": "214,226,250"
+  },
+  {
+    "image": "",
+    "id": 50,
+    "Auteur": "Sophie DUBOSC",
+    "Nationalite": "francaise",
+    "Titre": "Epreuve",
+    "Date_de_creation": 2015,
+    "Image": "image050.jpg",
+    "Couleur": "214,226,250"
+  },
+  {
+    "image": "",
+    "id": 51,
+    "Auteur": "Doris EWALD",
+    "Nationalite": "francaise",
+    "Titre": "Affiche Musikalischer Tee",
+    "Date_de_creation": 1909,
+    "Image": "image051.jpg",
+    "Couleur": "149,143,123"
+  },
+  {
+    "image": "",
+    "id": 52,
+    "Auteur": "Sylvie FLEURY",
+    "Nationalite": "suisse",
+    "Titre": "sunday # 037. Life can get Heavy, Mascara shouldn't",
+    "Date_de_creation": 2015,
+    "Image": "image052.jpg",
+    "Couleur": "223,217,210"
+  },
+  {
+    "image": "",
+    "id": 53,
+    "Auteur": "Dora GARC�A",
+    "Nationalite": "espagnole",
+    "Titre": "sunday # 006. Men I Love",
+    "Date_de_creation": 2010,
+    "Image": "image053.jpg",
+    "Couleur": "216,216,216"
+  },
+  {
+    "image": "",
+    "id": 54,
+    "Auteur": "GHAZEL (Ghazal RAPDAY, dite)",
+    "Nationalite": "iranienne",
+    "Titre": "Urgent",
+    "Date_de_creation": 1997,
+    "Image": "image054.JPG",
+    "Couleur": "50,50,50"
+  },
+  {
+    "image": "",
+    "id": 55,
+    "Auteur": "Dominique GHESQUI�RE",
+    "Nationalite": "francaise",
+    "Titre": "Feuillus",
+    "Date_de_creation": 2014,
+    "Image": "image055.jpg",
+    "Couleur": "209,215,233"
+  },
+  {
+    "image": "",
+    "id": 56,
+    "Auteur": "Dominique GHESQUI�RE",
+    "Nationalite": "francaise",
+    "Titre": "Feuillus",
+    "Date_de_creation": 2014,
+    "Image": "image056.jpg",
+    "Couleur": "209,215,233"
+  },
+  {
+    "image": "",
+    "id": 57,
+    "Auteur": "Natalia GONTCHAROVA",
+    "Nationalite": "francaise",
+    "Titre": "Affiche Th��tre des Petits Com�diens de Bois, de Julie Sazonova",
+    "Date_de_creation": 1924,
+    "Image": "image057.jpg",
+    "Couleur": "211,172,139"
+  },
+  {
+    "image": "",
+    "id": 58,
+    "Auteur": "Amy GRANAT",
+    "Nationalite": "americaine",
+    "Titre": "Jake's feet, Mojave Desert",
+    "Date_de_creation": 2016,
+    "Image": "image058.jpg",
+    "Couleur": "174,174,174"
+  },
+  {
+    "image": "",
+    "id": 59,
+    "Auteur": "April GREIMAN",
+    "Nationalite": "americaine",
+    "Titre": "Images internationales pour les droits de l'homme et du citoyen",
+    "Date_de_creation": 1988,
+    "Image": "image059.jpg",
+    "Couleur": "48,50,55"
+  },
+  {
+    "image": "",
+    "id": 60,
+    "Auteur": "Diane GUYOT DE SAINT MICHEL",
+    "Nationalite": "francaise",
+    "Titre": "Cible molle",
+    "Date_de_creation": 2017,
+    "Image": "image060.jpg",
+    "Couleur": "231,230,228"
+  },
+  {
+    "image": "",
+    "id": 61,
+    "Auteur": "Jenny HOLZER",
+    "Nationalite": "americaine",
+    "Titre": "Affiche Inflammatory Essays",
+    "Date_de_creation": 1979,
+    "Image": "image061.jpg",
+    "Couleur": "148,105,58"
+  },
+  {
+    "image": "",
+    "id": 62,
+    "Auteur": "Dominique HURTH",
+    "Nationalite": "",
+    "Titre": "S�ance de lecture",
+    "Date_de_creation": 2016,
+    "Image": "image062.JPG",
+    "Couleur": "61,67,54"
+  },
+  {
+    "image": "",
+    "id": 63,
+    "Auteur": "Eiko ISHIOKA",
+    "Nationalite": "japonaise",
+    "Titre": "Affiche Tradition et nouvelles techniques 22 octobre 15 novembre 1984",
+    "Date_de_creation": 1984,
+    "Image": "image063.JPG",
+    "Couleur": "77,67,67"
+  },
+  {
+    "image": "",
+    "id": 64,
+    "Auteur": "Alice JAUNEAU, David VALLANCE",
+    "Nationalite": "",
+    "Titre": "Affiche Appel � candidatures",
+    "Date_de_creation": 2015,
+    "Image": "image064.JPG",
+    "Couleur": "37,37,37"
+  },
+  {
+    "image": "",
+    "id": 65,
+    "Auteur": "V�ronique JOUMARD",
+    "Nationalite": "francaise",
+    "Titre": "Near Fukushima",
+    "Date_de_creation": 2014,
+    "Image": "image065.jpg",
+    "Couleur": "180,184,194"
+  },
+  {
+    "image": "",
+    "id": 66,
+    "Auteur": "V�ronique JOUMARD",
+    "Nationalite": "francaise",
+    "Titre": "Near Fukushima",
+    "Date_de_creation": 2014,
+    "Image": "image066.jpg",
+    "Couleur": "80,63,40"
+  },
+  {
+    "image": "",
+    "id": 67,
+    "Auteur": "V�ronique JOUMARD",
+    "Nationalite": "francaise",
+    "Titre": "Sans titre",
+    "Date_de_creation": 2017,
+    "Image": "image067.jpg",
+    "Couleur": "229,227,222"
+  },
+  {
+    "image": "",
+    "id": 68,
+    "Auteur": "V�ronique JOUMARD",
+    "Nationalite": "francaise",
+    "Titre": "Sans titre",
+    "Date_de_creation": 2017,
+    "Image": "image068.jpg",
+    "Couleur": "82,186,232"
+  },
+  {
+    "image": "",
+    "id": 69,
+    "Auteur": "Jos�phine KAEPPELIN",
+    "Nationalite": "francaise",
+    "Titre": "Affiche Il faut qu'il se passe quelque chose.",
+    "Date_de_creation": 2014,
+    "Image": "image069.jpg",
+    "Couleur": "71,63,56"
+  },
+  {
+    "image": "",
+    "id": 70,
+    "Auteur": "Jos�phine KAEPPELIN",
+    "Nationalite": "francaise",
+    "Titre": "Affiche Something is off.",
+    "Date_de_creation": 2015,
+    "Image": "image070.jpg",
+    "Couleur": "225,212,200"
+  },
+  {
+    "image": "",
+    "id": 71,
+    "Auteur": "Jos�phine KAEPPELIN",
+    "Nationalite": "francaise",
+    "Titre": "Affiche It's already moving.",
+    "Date_de_creation": 2015,
+    "Image": "image071.jpg",
+    "Couleur": "101,130,132"
+  },
+  {
+    "image": "",
+    "id": 72,
+    "Auteur": "Jos�phine KAEPPELIN",
+    "Nationalite": "francaise",
+    "Titre": "Affiche We see something else.",
+    "Date_de_creation": 2015,
+    "Image": "image072.jpg",
+    "Couleur": "173,172,171"
+  },
+  {
+    "image": "",
+    "id": 73,
+    "Auteur": "Jos�phine KAEPPELIN",
+    "Nationalite": "francaise",
+    "Titre": "Affiche An image will arise.",
+    "Date_de_creation": 2015,
+    "Image": "image073.jpg",
+    "Couleur": "160,100,84"
+  },
+  {
+    "image": "",
+    "id": 74,
+    "Auteur": "Jos�phine KAEPPELIN",
+    "Nationalite": "francaise",
+    "Titre": "Affiche Now, it's the moment where the story can start again.",
+    "Date_de_creation": 2015,
+    "Image": "image074.jpg",
+    "Couleur": "160,147,133"
+  },
+  {
+    "image": "",
+    "id": 75,
+    "Auteur": "Gitte KATH",
+    "Nationalite": "danoise",
+    "Titre": "Affiche Observatoire international des prisons, les portemanteaux",
+    "Date_de_creation": 1995,
+    "Image": "image075.JPG",
+    "Couleur": "156,147,96"
+  },
+  {
+    "image": "",
+    "id": 76,
+    "Auteur": "Dima KAVKO",
+    "Nationalite": "",
+    "Titre": "Affiche 20�me festival international de l'affiche et du graphisme de Chaumont 16 mai - 14 juin 2009. Affiche Joconde",
+    "Date_de_creation": 2009,
+    "Image": "image076.JPG",
+    "Couleur": "52,45,46"
+  },
+  {
+    "image": "",
+    "id": 77,
+    "Auteur": "Dima KAVKO",
+    "Nationalite": "",
+    "Titre": "Affiche",
+    "Date_de_creation": 2009,
+    "Image": "image077.jpg",
+    "Couleur": "40,20,26"
+  },
+  {
+    "image": "",
+    "id": 78,
+    "Auteur": "Dima KAVKO",
+    "Nationalite": "",
+    "Titre": "Affiche",
+    "Date_de_creation": 2009,
+    "Image": "image078.jpg",
+    "Couleur": "40,20,26"
+  },
+  {
+    "image": "",
+    "id": 79,
+    "Auteur": "Dima KAVKO",
+    "Nationalite": "",
+    "Titre": "Affiche",
+    "Date_de_creation": 2009,
+    "Image": "image079.jpg",
+    "Couleur": "40,20,26"
+  },
+  {
+    "image": "",
+    "id": 80,
+    "Auteur": "Sister Corita KENT (Frances Elizabeth KENT, dite)",
+    "Nationalite": "americaine",
+    "Titre": "morning",
+    "Date_de_creation": 1966,
+    "Image": "image080.jpg",
+    "Couleur": "242,87,22"
+  },
+  {
+    "image": "",
+    "id": 81,
+    "Auteur": "Sister Corita KENT (Frances Elizabeth KENT, dite)",
+    "Nationalite": "americaine",
+    "Titre": "help the big bird",
+    "Date_de_creation": 1966,
+    "Image": "image081.jpg",
+    "Couleur": "212,74,102"
+  },
+  {
+    "image": "",
+    "id": 82,
+    "Auteur": "Sister Corita KENT (Frances Elizabeth KENT, dite)",
+    "Nationalite": "americaine",
+    "Titre": "phil and dan",
+    "Date_de_creation": 1969,
+    "Image": "image082.jpg",
+    "Couleur": "189,187,179"
+  },
+  {
+    "image": "",
+    "id": 83,
+    "Auteur": "Aglaia KONRAD",
+    "Nationalite": "autrichienne",
+    "Titre": "sunday # 010. en bloc",
+    "Date_de_creation": 2011,
+    "Image": "image083.jpg",
+    "Couleur": "162,159,142"
+  },
+  {
+    "image": "",
+    "id": 84,
+    "Auteur": "Sarah KREMER",
+    "Nationalite": "",
+    "Titre": "Affiche ANRT (affiche de Atelier National de Recherche Typographique)",
+    "Date_de_creation": 2013,
+    "Image": "image084.jpg",
+    "Couleur": "208,212,216"
+  },
+  {
+    "image": "",
+    "id": 85,
+    "Auteur": "Susanne KRIEMANN",
+    "Nationalite": "allemande",
+    "Titre": "Het Licht (Poster)",
+    "Date_de_creation": 2012,
+    "Image": "image085.jpg",
+    "Couleur": "222,221,224"
+  },
+  {
+    "image": "",
+    "id": 86,
+    "Auteur": "Claire LEBRETON, Franck MARRY",
+    "Nationalite": "",
+    "Titre": "Affiche de la Saison Graphique",
+    "Date_de_creation": 2019,
+    "Image": "image086.jpg",
+    "Couleur": "232,94,41"
+  },
+  {
+    "image": "",
+    "id": 87,
+    "Auteur": "Seulgi LEE",
+    "Nationalite": "sud-coreenne",
+    "Titre": "Notre belle France",
+    "Date_de_creation": 2016,
+    "Image": "image087.jpg",
+    "Couleur": "61,51,35"
+  },
+  {
+    "image": "",
+    "id": 88,
+    "Auteur": "Anette LENZ, Vincent PERROTTET",
+    "Nationalite": "",
+    "Titre": "Affiche Th��tre d'Angoul�me sept-oct 2004",
+    "Date_de_creation": 2004,
+    "Image": "image088.jpg",
+    "Couleur": "230,226,223"
+  },
+  {
+    "image": "",
+    "id": 89,
+    "Auteur": "Anette LENZ",
+    "Nationalite": "allemande",
+    "Titre": "Affiche pour la f�te de la musique",
+    "Date_de_creation": 2001,
+    "Image": "image089.JPG",
+    "Couleur": "225,223,224"
+  },
+  {
+    "image": "",
+    "id": 90,
+    "Auteur": "Anette LENZ",
+    "Nationalite": "allemande",
+    "Titre": "Affiche Anette + Vincent",
+    "Date_de_creation": 2010,
+    "Image": "image090.JPG",
+    "Couleur": "211,191,184"
+  },
+  {
+    "image": "",
+    "id": 91,
+    "Auteur": "Anette LENZ",
+    "Nationalite": "allemande",
+    "Titre": "Affiche Pharenheit festival de danse, du 23 janvier au 7 f�vrier 2015",
+    "Date_de_creation": 2015,
+    "Image": "image091.JPG",
+    "Couleur": "207,209,221"
+  },
+  {
+    "image": "",
+    "id": 92,
+    "Auteur": "Sheila LEVRANT DE BRETTEVILLE",
+    "Nationalite": "",
+    "Titre": "Affiche Feminist studio workshop",
+    "Date_de_creation": 1972,
+    "Image": "image092.jpg",
+    "Couleur": "203,205,204"
+  },
+  {
+    "image": "",
+    "id": 93,
+    "Auteur": "Sheila LEVRANT DE BRETTEVILLE",
+    "Nationalite": "",
+    "Titre": "Affiche Pink is childish",
+    "Date_de_creation": 1974,
+    "Image": "image093.jpg",
+    "Couleur": "216,189,177"
+  },
+  {
+    "image": "",
+    "id": 94,
+    "Auteur": "Sheila LEVRANT DE BRETTEVILLE",
+    "Nationalite": "",
+    "Titre": "Affiche Women in Design: The next decade",
+    "Date_de_creation": 1975,
+    "Image": "image094.jpg",
+    "Couleur": "26,28,51"
+  },
+  {
+    "image": "",
+    "id": 95,
+    "Auteur": "Blanche MAC MANUS",
+    "Nationalite": "americaine",
+    "Titre": "Affiche Scribner's Fiction Number",
+    "Date_de_creation": 1895,
+    "Image": "image095.jpg",
+    "Couleur": "205,199,209"
+  },
+  {
+    "image": "",
+    "id": 96,
+    "Auteur": "Laurence MADRELLE, Olivier DANGLA",
+    "Nationalite": "",
+    "Titre": "Affiche Mannequins",
+    "Date_de_creation": 1995,
+    "Image": "image096.JPG",
+    "Couleur": "137,124,96"
+  },
+  {
+    "image": "",
+    "id": 97,
+    "Auteur": "Alejandro MAGALLANES",
+    "Nationalite": "mexicaine",
+    "Titre": "Affiche 20�me festival international de l'affiche et du graphisme de Chaumont 16 mai - 14 juin 2009. Affiche Mur",
+    "Date_de_creation": 2009,
+    "Image": "image097.JPG",
+    "Couleur": "172,133,117"
+  },
+  {
+    "image": "",
+    "id": 98,
+    "Auteur": "Alejandro MAGALLANES",
+    "Nationalite": "mexicaine",
+    "Titre": "Affiche",
+    "Date_de_creation": 2009,
+    "Image": "image098.jpg",
+    "Couleur": "189,151,122"
+  },
+  {
+    "image": "",
+    "id": 99,
+    "Auteur": "Alejandro MAGALLANES",
+    "Nationalite": "mexicaine",
+    "Titre": "Affiche",
+    "Date_de_creation": 2009,
+    "Image": "image099.jpg",
+    "Couleur": "189,151,122"
+  },
+  {
+    "image": "",
+    "id": 100,
+    "Auteur": "Alejandro MAGALLANES",
+    "Nationalite": "mexicaine",
+    "Titre": "Affiche",
+    "Date_de_creation": 2009,
+    "Image": "image100.jpg",
+    "Couleur": "189,151,122"
+  },
+  {
+    "image": "",
+    "id": 101,
+    "Auteur": "Laurent MALONE, Francine ZUBEIL",
+    "Nationalite": "",
+    "Titre": "Affiche Attabl�",
+    "Date_de_creation": 1995,
+    "Image": "image101.JPG",
+    "Couleur": "207,211,200"
+  },
+  {
+    "image": "",
+    "id": 102,
+    "Auteur": "MANLEF (Manon LEFEBVRE, dite)",
+    "Nationalite": "francaise",
+    "Titre": "Affiche de la Saison Graphique",
+    "Date_de_creation": 2019,
+    "Image": "image102.jpg",
+    "Couleur": "40,54,56"
+  },
+  {
+    "image": "",
+    "id": 103,
+    "Auteur": "Lika MAROWSKA (Ang�lique Jeanne MAROWSKA, dit)",
+    "Nationalite": "francaise",
+    "Titre": "Affiche K�nstler MaskenFest - Modenarrheiten aus allen Zeiten",
+    "Date_de_creation": 1912,
+    "Image": "image103.jpg",
+    "Couleur": "157,133,97"
+  },
+  {
+    "image": "",
+    "id": 104,
+    "Auteur": "Lika MAROWSKA (Ang�lique Jeanne MAROWSKA, dit)",
+    "Nationalite": "francaise",
+    "Titre": "Affiche Deutscher Zuverl�ssigkeits Flug am Oberrhein",
+    "Date_de_creation": 1912,
+    "Image": "image104.jpg",
+    "Couleur": "154,131,113"
+  },
+  {
+    "image": "",
+    "id": 105,
+    "Auteur": "matali crasset",
+    "Nationalite": "francaise",
+    "Titre": "Construction mentale",
+    "Date_de_creation": 2018,
+    "Image": "image105.jpg",
+    "Couleur": "242,250,29"
+  },
+  {
+    "image": "",
+    "id": 106,
+    "Auteur": "Paulina MATUSIAK",
+    "Nationalite": "neerlandaise et polonaise",
+    "Titre": "Affiche 20�me festival international de l'affiche et du graphisme de Chaumont 16 mai - 14 juin 2009. Affiche Oiseaux et fleurs",
+    "Date_de_creation": 2009,
+    "Image": "image106.JPG",
+    "Couleur": "67,67,73"
+  },
+  {
+    "image": "",
+    "id": 107,
+    "Auteur": "Paulina MATUSIAK",
+    "Nationalite": "neerlandaise et polonaise",
+    "Titre": "Affiche",
+    "Date_de_creation": 2009,
+    "Image": "image107.jpg",
+    "Couleur": "55,72,80"
+  },
+  {
+    "image": "",
+    "id": 108,
+    "Auteur": "Paulina MATUSIAK",
+    "Nationalite": "neerlandaise et polonaise",
+    "Titre": "Affiche",
+    "Date_de_creation": 2009,
+    "Image": "image108.jpg",
+    "Couleur": "55,72,80"
+  },
+  {
+    "image": "",
+    "id": 109,
+    "Auteur": "Paulina MATUSIAK",
+    "Nationalite": "neerlandaise et polonaise",
+    "Titre": "Affiche",
+    "Date_de_creation": 2009,
+    "Image": "image109.jpg",
+    "Couleur": "55,72,80"
+  },
+  {
+    "image": "",
+    "id": 110,
+    "Auteur": "Fanette MELLIER",
+    "Nationalite": "francaise",
+    "Titre": "Affiche Losanges couleurs",
+    "Date_de_creation": "s.d.",
+    "Image": "image110.JPG",
+    "Couleur": "157,122,113"
+  },
+  {
+    "image": "",
+    "id": 111,
+    "Auteur": "Fanette MELLIER",
+    "Nationalite": "francaise",
+    "Titre": "Affiche Celles qui savaient",
+    "Date_de_creation": "s.d.",
+    "Image": "image111.JPG",
+    "Couleur": "191,196,203"
+  },
+  {
+    "image": "",
+    "id": 112,
+    "Auteur": "Fanette MELLIER",
+    "Nationalite": "francaise",
+    "Titre": "Affiche Etude d'une affiche pour la f�te de la musique 2008",
+    "Date_de_creation": 2008,
+    "Image": "image112.JPG",
+    "Couleur": "20,22,23"
+  },
+  {
+    "image": "",
+    "id": 113,
+    "Auteur": "Fanette MELLIER",
+    "Nationalite": "francaise",
+    "Titre": "Affiche pour la f�te de la musique",
+    "Date_de_creation": 2008,
+    "Image": "image113.JPG",
+    "Couleur": "208,178,168"
+  },
+  {
+    "image": "",
+    "id": 114,
+    "Auteur": "Fanette MELLIER",
+    "Nationalite": "francaise",
+    "Titre": "Affiche pour la f�te de la musique",
+    "Date_de_creation": 2008,
+    "Image": "image114.JPG",
+    "Couleur": "231,232,237"
+  },
+  {
+    "image": "",
+    "id": 115,
+    "Auteur": "Fanette MELLIER",
+    "Nationalite": "francaise",
+    "Titre": "Affiche Professions culture",
+    "Date_de_creation": 2009,
+    "Image": "image115.JPG",
+    "Couleur": "72,97,174"
+  },
+  {
+    "image": "",
+    "id": 116,
+    "Auteur": "Fanette MELLIER",
+    "Nationalite": "francaise",
+    "Titre": "Affiche Professions culture",
+    "Date_de_creation": 2009,
+    "Image": "image116.JPG",
+    "Couleur": "67,150,65"
+  },
+  {
+    "image": "",
+    "id": 117,
+    "Auteur": "Fanette MELLIER",
+    "Nationalite": "francaise",
+    "Titre": "Affiche Professions culture",
+    "Date_de_creation": 2009,
+    "Image": "image117.JPG",
+    "Couleur": "223,223,224"
+  },
+  {
+    "image": "",
+    "id": 118,
+    "Auteur": "Fanette MELLIER",
+    "Nationalite": "francaise",
+    "Titre": "Affiche Professions culture",
+    "Date_de_creation": 2009,
+    "Image": "image118.JPG",
+    "Couleur": "218,207,69"
+  },
+  {
+    "image": "",
+    "id": 119,
+    "Auteur": "Fanette MELLIER",
+    "Nationalite": "francaise",
+    "Titre": "Affiche L'art dans la rue",
+    "Date_de_creation": 2010,
+    "Image": "image119.JPG",
+    "Couleur": "191,198,212"
+  },
+  {
+    "image": "",
+    "id": 120,
+    "Auteur": "Fanette MELLIER",
+    "Nationalite": "francaise",
+    "Titre": "Affiche L'art dans la rue",
+    "Date_de_creation": 2010,
+    "Image": "image120.JPG",
+    "Couleur": "223,223,224"
+  },
+  {
+    "image": "",
+    "id": 121,
+    "Auteur": "Fanette MELLIER",
+    "Nationalite": "francaise",
+    "Titre": "Affiche de la Saison Graphique",
+    "Date_de_creation": 2013,
+    "Image": "image121.jpg",
+    "Couleur": "134,141,133"
+  },
+  {
+    "image": "",
+    "id": 122,
+    "Auteur": "Fanette MELLIER",
+    "Nationalite": "francaise",
+    "Titre": "Affiche de la Saison Graphique",
+    "Date_de_creation": 2013,
+    "Image": "image122.jpg",
+    "Couleur": "147,153,148"
+  },
+  {
+    "image": "",
+    "id": 123,
+    "Auteur": "Fanette MELLIER",
+    "Nationalite": "francaise",
+    "Titre": "Affiche de la Saison Graphique",
+    "Date_de_creation": 2014,
+    "Image": "image123.jpg",
+    "Couleur": "191,187,185"
+  },
+  {
+    "image": "",
+    "id": 124,
+    "Auteur": "Nathalie MINNE",
+    "Nationalite": "francaise",
+    "Titre": "Affiche Visage",
+    "Date_de_creation": 1995,
+    "Image": "image124.JPG",
+    "Couleur": "29,29,29"
+  },
+  {
+    "image": "",
+    "id": 125,
+    "Auteur": "Anita MOLINERO",
+    "Nationalite": "francaise",
+    "Titre": "Sans titre mais avec particules",
+    "Date_de_creation": 2015,
+    "Image": "image125.jpg",
+    "Couleur": "38,31,37"
+  },
+  {
+    "image": "",
+    "id": 126,
+    "Auteur": "Anita MOLINERO",
+    "Nationalite": "francaise",
+    "Titre": "Sans titre mais avec particules",
+    "Date_de_creation": 2015,
+    "Image": "image126.jpg",
+    "Couleur": "40,33,40"
+  },
+  {
+    "image": "",
+    "id": 127,
+    "Auteur": "MOREPUBLISHERS, Dora GARC�A",
+    "Nationalite": "",
+    "Titre": "In an Old House",
+    "Date_de_creation": 2018,
+    "Image": "image127.jpg",
+    "Couleur": "201,201,201"
+  },
+  {
+    "image": "",
+    "id": 128,
+    "Auteur": "Claire MOREUX",
+    "Nationalite": "francaise",
+    "Titre": "Affiche F�te de la musique",
+    "Date_de_creation": 2011,
+    "Image": "image128.JPG",
+    "Couleur": "217,192,64"
+  },
+  {
+    "image": "",
+    "id": 129,
+    "Auteur": "Claire MOREUX",
+    "Nationalite": "francaise",
+    "Titre": "Affiche F�te de la musique",
+    "Date_de_creation": 2011,
+    "Image": "image129.JPG",
+    "Couleur": "212,215,221"
+  },
+  {
+    "image": "",
+    "id": 130,
+    "Auteur": "Flora MOSCOVICI",
+    "Nationalite": "francaise",
+    "Titre": "Sans titre",
+    "Date_de_creation": 2018,
+    "Image": "image130.jpg",
+    "Couleur": "212,157,209"
+  },
+  {
+    "image": "",
+    "id": 131,
+    "Auteur": "Otobong NKANGA",
+    "Nationalite": "nigeriane et belge",
+    "Titre": "Affiche Object Atlas: War and Love Booty",
+    "Date_de_creation": 2011,
+    "Image": "image131.jpg",
+    "Couleur": "36,68,86"
+  },
+  {
+    "image": "",
+    "id": 132,
+    "Auteur": "Otobong NKANGA",
+    "Nationalite": "nigeriane et belge",
+    "Titre": "Affiche Object Atlas: The Currency Affair",
+    "Date_de_creation": 2011,
+    "Image": "image132.jpg",
+    "Couleur": "224,222,197"
+  },
+  {
+    "image": "",
+    "id": 133,
+    "Auteur": "Alexandra NOTH",
+    "Nationalite": "suisse",
+    "Titre": "Affiche",
+    "Date_de_creation": 2009,
+    "Image": "image133.jpg",
+    "Couleur": "16,46,70"
+  },
+  {
+    "image": "",
+    "id": 134,
+    "Auteur": "Alexandra NOTH",
+    "Nationalite": "suisse",
+    "Titre": "Affiche",
+    "Date_de_creation": 2009,
+    "Image": "image134.jpg",
+    "Couleur": "16,46,70"
+  },
+  {
+    "image": "",
+    "id": 135,
+    "Auteur": "Alexandra NOTH",
+    "Nationalite": "suisse",
+    "Titre": "Affiche",
+    "Date_de_creation": 2009,
+    "Image": "image135.jpg",
+    "Couleur": "16,46,70"
+  },
+  {
+    "image": "",
+    "id": 136,
+    "Auteur": "Sophie NYS",
+    "Nationalite": "belge",
+    "Titre": "sunday # 003. Exhibition",
+    "Date_de_creation": 2010,
+    "Image": "image136.jpg",
+    "Couleur": "142,85,89"
+  },
+  {
+    "image": "",
+    "id": 137,
+    "Auteur": "Marjorie OBER",
+    "Nationalite": "francaise",
+    "Titre": "Affiche de la Saison Graphique",
+    "Date_de_creation": 2019,
+    "Image": "image137.jpg",
+    "Couleur": "38,57,112"
+  },
+  {
+    "image": "",
+    "id": 138,
+    "Auteur": "Anouchka OLER",
+    "Nationalite": "francaise",
+    "Titre": "The Thing Show : Ego",
+    "Date_de_creation": 2018,
+    "Image": "image138.JPG",
+    "Couleur": "236,100,40"
+  },
+  {
+    "image": "",
+    "id": 139,
+    "Auteur": "Anouchka OLER",
+    "Nationalite": "francaise",
+    "Titre": "The Thing Show : Jox Colombox",
+    "Date_de_creation": 2018,
+    "Image": "image139.JPG",
+    "Couleur": "205,109,91"
+  },
+  {
+    "image": "",
+    "id": 140,
+    "Auteur": "Anouchka OLER",
+    "Nationalite": "francaise",
+    "Titre": "All Insure, All Unsure",
+    "Date_de_creation": 2019,
+    "Image": "image140.JPG",
+    "Couleur": "210,195,188"
+  },
+  {
+    "image": "",
+    "id": 141,
+    "Auteur": "Anouchka OLER",
+    "Nationalite": "francaise",
+    "Titre": "The Thing Show : The Red Dykes",
+    "Date_de_creation": 2019,
+    "Image": "image141.JPG",
+    "Couleur": "212,197,186"
+  },
+  {
+    "image": "",
+    "id": 142,
+    "Auteur": "Anouchka OLER",
+    "Nationalite": "francaise",
+    "Titre": "Le Drama More Show",
+    "Date_de_creation": 2021,
+    "Image": "image142.JPG",
+    "Couleur": "184,100,134"
+  },
+  {
+    "image": "",
+    "id": 143,
+    "Auteur": "Chana ORLOFF",
+    "Nationalite": "francaise",
+    "Titre": "Album de bois grav�s",
+    "Date_de_creation": 1919,
+    "Image": "image143.JPG",
+    "Couleur": "216,202,165"
+  },
+  {
+    "image": "",
+    "id": 144,
+    "Auteur": "Muriel PARIS",
+    "Nationalite": "francaise",
+    "Titre": "Affiche Kishida",
+    "Date_de_creation": 1994,
+    "Image": "image144.JPG",
+    "Couleur": "205,203,196"
+  },
+  {
+    "image": "",
+    "id": 145,
+    "Auteur": "Elo�sa P�REZ",
+    "Nationalite": "",
+    "Titre": "Affiche Appel � candidatures",
+    "Date_de_creation": 2014,
+    "Image": "image145.JPG",
+    "Couleur": "54,44,121"
+  },
+  {
+    "image": "",
+    "id": 146,
+    "Auteur": "Aude PERRIER",
+    "Nationalite": "francaise",
+    "Titre": "Affiche pour la f�te de la musique",
+    "Date_de_creation": 2009,
+    "Image": "image146.jpg",
+    "Couleur": "250,219,6"
+  },
+  {
+    "image": "",
+    "id": 147,
+    "Auteur": "Aude PERRIER",
+    "Nationalite": "francaise",
+    "Titre": "Affiche pour la f�te de la musique",
+    "Date_de_creation": 2009,
+    "Image": "image147.jpg",
+    "Couleur": "250,219,5"
+  },
+  {
+    "image": "",
+    "id": 148,
+    "Auteur": "Aude PERRIER",
+    "Nationalite": "francaise",
+    "Titre": "Affiche pour la f�te de la musique",
+    "Date_de_creation": 2009,
+    "Image": "image148.jpg",
+    "Couleur": "250,219,7"
+  },
+  {
+    "image": "",
+    "id": 149,
+    "Auteur": "Aude PERRIER",
+    "Nationalite": "francaise",
+    "Titre": "Affiche pour la f�te de la musique",
+    "Date_de_creation": 2009,
+    "Image": "image149.JPG",
+    "Couleur": "216,181,45"
+  },
+  {
+    "image": "",
+    "id": 150,
+    "Auteur": "Aude PERRIER",
+    "Nationalite": "francaise",
+    "Titre": "Affiche pour la f�te de la musique",
+    "Date_de_creation": 2009,
+    "Image": "image150.JPG",
+    "Couleur": "223,227,234"
+  },
+  {
+    "image": "",
+    "id": 151,
+    "Auteur": "Aude PERRIER",
+    "Nationalite": "francaise",
+    "Titre": "F�te de la musique",
+    "Date_de_creation": 2009,
+    "Image": "image151.JPG",
+    "Couleur": "230,196,27"
+  },
+  {
+    "image": "",
+    "id": 152,
+    "Auteur": "Aude PERRIER",
+    "Nationalite": "francaise",
+    "Titre": "F�te de la musique",
+    "Date_de_creation": 2009,
+    "Image": "image152.JPG",
+    "Couleur": "225,182,31"
+  },
+  {
+    "image": "",
+    "id": 153,
+    "Auteur": "Aude PERRIER",
+    "Nationalite": "francaise",
+    "Titre": "F�te de la musique",
+    "Date_de_creation": 2009,
+    "Image": "image153.JPG",
+    "Couleur": "115,165,225"
+  },
+  {
+    "image": "",
+    "id": 154,
+    "Auteur": "Kirsten PIEROTH",
+    "Nationalite": "allemande",
+    "Titre": "sunday # 021. Untitled (Eggs)",
+    "Date_de_creation": 2013,
+    "Image": "image154.jpg",
+    "Couleur": "198,198,198"
+  },
+  {
+    "image": "",
+    "id": 155,
+    "Auteur": "Emilie PITOISET",
+    "Nationalite": "francaise",
+    "Titre": "Hommage � la jeunesse",
+    "Date_de_creation": 2017,
+    "Image": "image155.jpg",
+    "Couleur": "192,188,201"
+  },
+  {
+    "image": "",
+    "id": 156,
+    "Auteur": "Marie QUEAU",
+    "Nationalite": "francaise",
+    "Titre": "Gojira",
+    "Date_de_creation": 2015,
+    "Image": "image156.jpg",
+    "Couleur": "134,170,216"
+  },
+  {
+    "image": "",
+    "id": 157,
+    "Auteur": "Ethel REED",
+    "Nationalite": "americaine",
+    "Titre": "Affiche Uncle Sam's Church",
+    "Date_de_creation": "s.d.",
+    "Image": "image157.jpg",
+    "Couleur": "173,165,146"
+  },
+  {
+    "image": "",
+    "id": 158,
+    "Auteur": "Ethel REED",
+    "Nationalite": "americaine",
+    "Titre": "Affiche The White Wampun (tekahionwake)",
+    "Date_de_creation": 1895,
+    "Image": "image158.jpg",
+    "Couleur": "148,137,127"
+  },
+  {
+    "image": "",
+    "id": 159,
+    "Auteur": "Ethel REED",
+    "Nationalite": "americaine",
+    "Titre": "Affiche Is Polite Society Polite",
+    "Date_de_creation": 1895,
+    "Image": "image159.jpg",
+    "Couleur": "193,49,52"
+  },
+  {
+    "image": "",
+    "id": 160,
+    "Auteur": "Ethel REED",
+    "Nationalite": "americaine",
+    "Titre": "Affiche The House of the Trees",
+    "Date_de_creation": 1895,
+    "Image": "image160.jpg",
+    "Couleur": "170,163,152"
+  },
+  {
+    "image": "",
+    "id": 161,
+    "Auteur": "Ethel REED",
+    "Nationalite": "americaine",
+    "Titre": "Affiche The Quest of the golden girl",
+    "Date_de_creation": 1896,
+    "Image": "image161.jpg",
+    "Couleur": "129,133,124"
+  },
+  {
+    "image": "",
+    "id": 162,
+    "Auteur": "Ethel REED",
+    "Nationalite": "americaine",
+    "Titre": "Affiche A Virginia-Cousin &/Bar Harbor Tales",
+    "Date_de_creation": 1896,
+    "Image": "image162.jpg",
+    "Couleur": "59,48,50"
+  },
+  {
+    "image": "",
+    "id": 163,
+    "Auteur": "Marie REINERT",
+    "Nationalite": "francaise",
+    "Titre": "Sans titre",
+    "Date_de_creation": 2015,
+    "Image": "image163.jpg",
+    "Couleur": "176,165,168"
+  },
+  {
+    "image": "",
+    "id": 164,
+    "Auteur": "Marie REINERT",
+    "Nationalite": "francaise",
+    "Titre": "Sans titre",
+    "Date_de_creation": 2015,
+    "Image": "image164.jpg",
+    "Couleur": "236,243,247"
+  },
+  {
+    "image": "",
+    "id": 165,
+    "Auteur": "Delphine REIST",
+    "Nationalite": "suisse",
+    "Titre": "Tache de vin",
+    "Date_de_creation": 2015,
+    "Image": "image165.jpg",
+    "Couleur": "207,218,239"
+  },
+  {
+    "image": "",
+    "id": 166,
+    "Auteur": "Delphine REIST",
+    "Nationalite": "suisse",
+    "Titre": "T�che de vin",
+    "Date_de_creation": 2015,
+    "Image": "image166.jpg",
+    "Couleur": "207,218,239"
+  },
+  {
+    "image": "",
+    "id": 167,
+    "Auteur": "Lili REYNAUD DEWAR",
+    "Nationalite": "francaise",
+    "Titre": "Power, Corruption & Lies",
+    "Date_de_creation": 2006,
+    "Image": "image167.jpg",
+    "Couleur": "5,172,91"
+  },
+  {
+    "image": "",
+    "id": 168,
+    "Auteur": "Lili REYNAUD DEWAR",
+    "Nationalite": "francaise",
+    "Titre": "The Center and the Eyes",
+    "Date_de_creation": 2006,
+    "Image": "image168.jpg",
+    "Couleur": "6,6,6"
+  },
+  {
+    "image": "",
+    "id": 169,
+    "Auteur": "Lili REYNAUD DEWAR",
+    "Nationalite": "francaise",
+    "Titre": "4 posters pour 2 r�cits. The Camp Woman Figure",
+    "Date_de_creation": 2007,
+    "Image": "image169.jpg",
+    "Couleur": "160,137,82"
+  },
+  {
+    "image": "",
+    "id": 170,
+    "Auteur": "Lili REYNAUD DEWAR",
+    "Nationalite": "francaise",
+    "Titre": "4 posters pour 2 r�cits. The Story of the Camp Woman Figure",
+    "Date_de_creation": 2007,
+    "Image": "image170.jpg",
+    "Couleur": "31,31,31"
+  },
+  {
+    "image": "",
+    "id": 171,
+    "Auteur": "Lili REYNAUD DEWAR",
+    "Nationalite": "francaise",
+    "Titre": "4 posters pour 2 r�cits. La Figure Provisoirement Authentique du Griot",
+    "Date_de_creation": 2007,
+    "Image": "image171.jpg",
+    "Couleur": "162,139,82"
+  },
+  {
+    "image": "",
+    "id": 172,
+    "Auteur": "Lili REYNAUD DEWAR",
+    "Nationalite": "francaise",
+    "Titre": "4 posters pour 2 r�cits. Le r�cit de la figure provisoirement authentique du griot",
+    "Date_de_creation": 2007,
+    "Image": "image172.jpg",
+    "Couleur": "31,31,32"
+  },
+  {
+    "image": "",
+    "id": 173,
+    "Auteur": "Lili REYNAUD DEWAR",
+    "Nationalite": "francaise",
+    "Titre": "Here We Are ! Let us say yes to our presence together in chaos !",
+    "Date_de_creation": 2007,
+    "Image": "image173.jpg",
+    "Couleur": "6,6,5"
+  },
+  {
+    "image": "",
+    "id": 174,
+    "Auteur": "Lili REYNAUD DEWAR",
+    "Nationalite": "francaise",
+    "Titre": "En r�alit�, le Sphinx est-il une annexe du monument ou le monument une annexe du Sphinx ?",
+    "Date_de_creation": 2008,
+    "Image": "image174.jpg",
+    "Couleur": "230,230,230"
+  },
+  {
+    "image": "",
+    "id": 175,
+    "Auteur": "Lili REYNAUD DEWAR",
+    "Nationalite": "francaise",
+    "Titre": "In Every Room There is the / a Ghost of Sex. Could anything be more ridiculous (Part 1)",
+    "Date_de_creation": 2008,
+    "Image": "image175.jpg",
+    "Couleur": "107,91,83"
+  },
+  {
+    "image": "",
+    "id": 176,
+    "Auteur": "Lili REYNAUD DEWAR",
+    "Nationalite": "francaise",
+    "Titre": "In Every Room There is the / a Ghost of Sex. Could anything be more ridiculous (Part 2)",
+    "Date_de_creation": 2008,
+    "Image": "image176.jpg",
+    "Couleur": "84,91,91"
+  },
+  {
+    "image": "",
+    "id": 177,
+    "Auteur": "Lili REYNAUD DEWAR",
+    "Nationalite": "francaise",
+    "Titre": "In Every Room There is the / a Ghost of Sex. Could anything be more ridiculous (Part 3)",
+    "Date_de_creation": 2008,
+    "Image": "image177.jpg",
+    "Couleur": "91,79,75"
+  },
+  {
+    "image": "",
+    "id": 178,
+    "Auteur": "Lili REYNAUD DEWAR",
+    "Nationalite": "francaise",
+    "Titre": "In Every Room There is the / a Ghost of Sex. Counter-Design",
+    "Date_de_creation": 2008,
+    "Image": "image178.jpg",
+    "Couleur": "83,89,90"
+  },
+  {
+    "image": "",
+    "id": 179,
+    "Auteur": "Lili REYNAUD DEWAR",
+    "Nationalite": "francaise",
+    "Titre": "In Every Room There is the / a Ghost of Sex. The Chair",
+    "Date_de_creation": 2008,
+    "Image": "image179.jpg",
+    "Couleur": "90,79,74"
+  },
+  {
+    "image": "",
+    "id": 180,
+    "Auteur": "Lili REYNAUD DEWAR",
+    "Nationalite": "francaise",
+    "Titre": "In Every Room There is the / a Ghost of Sex. Modern Style Furniture",
+    "Date_de_creation": 2008,
+    "Image": "image180.jpg",
+    "Couleur": "102,90,82"
+  },
+  {
+    "image": "",
+    "id": 181,
+    "Auteur": "Lili REYNAUD DEWAR",
+    "Nationalite": "francaise",
+    "Titre": "In Every Room There is the / a Ghost of Sex. Public Creativity",
+    "Date_de_creation": 2008,
+    "Image": "image181.jpg",
+    "Couleur": "106,91,83"
+  },
+  {
+    "image": "",
+    "id": 182,
+    "Auteur": "Lili REYNAUD DEWAR",
+    "Nationalite": "francaise",
+    "Titre": "In Every Room There is the / a Ghost of Sex. A Furniture Project For an Exhibition at the Moma",
+    "Date_de_creation": 2008,
+    "Image": "image182.jpg",
+    "Couleur": "83,89,90"
+  },
+  {
+    "image": "",
+    "id": 183,
+    "Auteur": "Lili REYNAUD DEWAR",
+    "Nationalite": "francaise",
+    "Titre": "In Every Room There is the / a Ghost of Sex. My Experience with Ceramics",
+    "Date_de_creation": 2008,
+    "Image": "image183.jpg",
+    "Couleur": "83,86,81"
+  },
+  {
+    "image": "",
+    "id": 184,
+    "Auteur": "Lili REYNAUD DEWAR",
+    "Nationalite": "francaise",
+    "Titre": "In Every Room There is the / a Ghost of Sex. Environment",
+    "Date_de_creation": 2008,
+    "Image": "image184.jpg",
+    "Couleur": "107,91,83"
+  },
+  {
+    "image": "",
+    "id": 185,
+    "Auteur": "Lili REYNAUD DEWAR",
+    "Nationalite": "francaise",
+    "Titre": "In Every Room There is the / a Ghost of Sex. Let's speak of magic",
+    "Date_de_creation": 2008,
+    "Image": "image185.jpg",
+    "Couleur": "82,86,81"
+  },
+  {
+    "image": "",
+    "id": 186,
+    "Auteur": "Lili REYNAUD DEWAR",
+    "Nationalite": "francaise",
+    "Titre": "In Every Room There is the / a Ghost of Sex. They Say I'm Bad",
+    "Date_de_creation": 2008,
+    "Image": "image186.jpg",
+    "Couleur": "82,84,79"
+  },
+  {
+    "image": "",
+    "id": 187,
+    "Auteur": "Lili REYNAUD DEWAR",
+    "Nationalite": "francaise",
+    "Titre": "Love = U.F.O.",
+    "Date_de_creation": 2008,
+    "Image": "image187.jpg",
+    "Couleur": "68,44,44"
+  },
+  {
+    "image": "",
+    "id": 188,
+    "Auteur": "Lili REYNAUD DEWAR",
+    "Nationalite": "francaise",
+    "Titre": "The Race La Razza La Corsa. The Race",
+    "Date_de_creation": 2008,
+    "Image": "image188.jpg",
+    "Couleur": "238,236,238"
+  },
+  {
+    "image": "",
+    "id": 189,
+    "Auteur": "Lili REYNAUD DEWAR",
+    "Nationalite": "francaise",
+    "Titre": "The Race La Razza La Corsa. La Razza",
+    "Date_de_creation": 2008,
+    "Image": "image189.jpg",
+    "Couleur": "44,36,44"
+  },
+  {
+    "image": "",
+    "id": 190,
+    "Auteur": "Lili REYNAUD DEWAR",
+    "Nationalite": "francaise",
+    "Titre": "The Race La Razza La Corsa. La Corsa",
+    "Date_de_creation": 2008,
+    "Image": "image190.jpg",
+    "Couleur": "236,234,235"
+  },
+  {
+    "image": "",
+    "id": 191,
+    "Auteur": "Lili REYNAUD DEWAR",
+    "Nationalite": "francaise",
+    "Titre": "Black Mariah",
+    "Date_de_creation": 2010,
+    "Image": "image191.jpg",
+    "Couleur": "28,28,28"
+  },
+  {
+    "image": "",
+    "id": 192,
+    "Auteur": "Lili REYNAUD DEWAR",
+    "Nationalite": "francaise",
+    "Titre": "Interpretation",
+    "Date_de_creation": 2010,
+    "Image": "image192.jpg",
+    "Couleur": "225,222,222"
+  },
+  {
+    "image": "",
+    "id": 193,
+    "Auteur": "Lili REYNAUD DEWAR",
+    "Nationalite": "francaise",
+    "Titre": "Ceci est ma maison / This is my place",
+    "Date_de_creation": 2012,
+    "Image": "image193.jpg",
+    "Couleur": "187,176,159"
+  },
+  {
+    "image": "",
+    "id": 194,
+    "Auteur": "Jeanne RISS",
+    "Nationalite": "",
+    "Titre": "Affiche Strasbourg historique, exposition au ch�teau des Rohan",
+    "Date_de_creation": "s.d.",
+    "Image": "image194.jpg",
+    "Couleur": "160,153,140"
+  },
+  {
+    "image": "",
+    "id": 195,
+    "Auteur": "Jeanne RISS",
+    "Nationalite": "",
+    "Titre": "Affiche Kunst Ausstellung, Ch�teau des Rohan",
+    "Date_de_creation": 1912,
+    "Image": "image195.jpg",
+    "Couleur": "154,131,90"
+  },
+  {
+    "image": "",
+    "id": 196,
+    "Auteur": "Claudia ROETHLISBERGER",
+    "Nationalite": "",
+    "Titre": "Affiche 20�me festival international de l'affiche et du graphisme de Chaumont 16 mai - 14 juin 2009. Affiche Pomme rose",
+    "Date_de_creation": 2009,
+    "Image": "image196.JPG",
+    "Couleur": "55,54,58"
+  },
+  {
+    "image": "",
+    "id": 197,
+    "Auteur": "Claudia ROETHLISBERGER",
+    "Nationalite": "",
+    "Titre": "Affiche",
+    "Date_de_creation": 2009,
+    "Image": "image197.jpg",
+    "Couleur": "70,74,80"
+  },
+  {
+    "image": "",
+    "id": 198,
+    "Auteur": "Claudia ROETHLISBERGER",
+    "Nationalite": "",
+    "Titre": "Affiche",
+    "Date_de_creation": 2009,
+    "Image": "image198.jpg",
+    "Couleur": "70,74,80"
+  },
+  {
+    "image": "",
+    "id": 199,
+    "Auteur": "Claudia ROETHLISBERGER",
+    "Nationalite": "",
+    "Titre": "Affiche",
+    "Date_de_creation": 2009,
+    "Image": "image199.jpg",
+    "Couleur": "70,74,80"
+  },
+  {
+    "image": "",
+    "id": 200,
+    "Auteur": "Graciela SACCO",
+    "Nationalite": "argentine",
+    "Titre": "Affiche Bocanada",
+    "Date_de_creation": 1994,
+    "Image": "image200.jpg",
+    "Couleur": "198,177,164"
+  },
+  {
+    "image": "",
+    "id": 201,
+    "Auteur": "Graciela SACCO",
+    "Nationalite": "argentine",
+    "Titre": "Affiche Bocanada",
+    "Date_de_creation": 1994,
+    "Image": "image201.jpg",
+    "Couleur": "209,194,182"
+  },
+  {
+    "image": "",
+    "id": 202,
+    "Auteur": "Graciela SACCO",
+    "Nationalite": "argentine",
+    "Titre": "Affiche Bocanada",
+    "Date_de_creation": 1994,
+    "Image": "image202.jpg",
+    "Couleur": "187,170,161"
+  },
+  {
+    "image": "",
+    "id": 203,
+    "Auteur": "Graciela SACCO",
+    "Nationalite": "argentine",
+    "Titre": "Affiche Bocanada",
+    "Date_de_creation": 1994,
+    "Image": "image203.jpg",
+    "Couleur": "203,183,173"
+  },
+  {
+    "image": "",
+    "id": 204,
+    "Auteur": "Graciela SACCO",
+    "Nationalite": "argentine",
+    "Titre": "Affiche Bocanada",
+    "Date_de_creation": 1994,
+    "Image": "image204.jpg",
+    "Couleur": "44,17,11"
+  },
+  {
+    "image": "",
+    "id": 205,
+    "Auteur": "Graciela SACCO",
+    "Nationalite": "argentine",
+    "Titre": "Affiche Bocanada",
+    "Date_de_creation": 1994,
+    "Image": "image205.jpg",
+    "Couleur": "204,188,178"
+  },
+  {
+    "image": "",
+    "id": 206,
+    "Auteur": "Graciela SACCO",
+    "Nationalite": "argentine",
+    "Titre": "Affiche Bocanada",
+    "Date_de_creation": 1994,
+    "Image": "image206.jpg",
+    "Couleur": "41,15,10"
+  },
+  {
+    "image": "",
+    "id": 207,
+    "Auteur": "Graciela SACCO",
+    "Nationalite": "argentine",
+    "Titre": "Affiche Bocanada",
+    "Date_de_creation": 1994,
+    "Image": "image207.jpg",
+    "Couleur": "34,12,8"
+  },
+  {
+    "image": "",
+    "id": 208,
+    "Auteur": "Graciela SACCO",
+    "Nationalite": "argentine",
+    "Titre": "Affiche Bocanada",
+    "Date_de_creation": 1994,
+    "Image": "image208.jpg",
+    "Couleur": "200,180,164"
+  },
+  {
+    "image": "",
+    "id": 209,
+    "Auteur": "Graciela SACCO",
+    "Nationalite": "argentine",
+    "Titre": "Affiche Bocanada",
+    "Date_de_creation": 1994,
+    "Image": "image209.jpg",
+    "Couleur": "54,25,12"
+  },
+  {
+    "image": "",
+    "id": 210,
+    "Auteur": "Graciela SACCO",
+    "Nationalite": "argentine",
+    "Titre": "Affiche Bocanada",
+    "Date_de_creation": 1994,
+    "Image": "image210.jpg",
+    "Couleur": "23,7,5"
+  },
+  {
+    "image": "",
+    "id": 211,
+    "Auteur": "Graciela SACCO",
+    "Nationalite": "argentine",
+    "Titre": "Affiche Bocanada",
+    "Date_de_creation": 1994,
+    "Image": "image211.jpg",
+    "Couleur": "207,194,186"
+  },
+  {
+    "image": "",
+    "id": 212,
+    "Auteur": "Bettina SAMSON",
+    "Nationalite": "francaise",
+    "Titre": "Southern Gothic",
+    "Date_de_creation": 2016,
+    "Image": "image212.jpg",
+    "Couleur": "49,59,47"
+  },
+  {
+    "image": "",
+    "id": 213,
+    "Auteur": "Lisa SARTORIO",
+    "Nationalite": "",
+    "Titre": "Affiche X Puissance X",
+    "Date_de_creation": 2012,
+    "Image": "image213.jpg",
+    "Couleur": "122,89,82"
+  },
+  {
+    "image": "",
+    "id": 214,
+    "Auteur": "Lisa SARTORIO",
+    "Nationalite": "",
+    "Titre": "Affiche X Puissance X",
+    "Date_de_creation": 2012,
+    "Image": "image214.jpg",
+    "Couleur": "109,102,82"
+  },
+  {
+    "image": "",
+    "id": 215,
+    "Auteur": "Rosmarie TISSI",
+    "Nationalite": "suisse",
+    "Titre": "Images internationales pour les droits de l'homme et du citoyen",
+    "Date_de_creation": 1988,
+    "Image": "image215.jpg",
+    "Couleur": "170,74,55"
+  },
+  {
+    "image": "",
+    "id": 216,
+    "Auteur": "Sylvia TOURNERIE",
+    "Nationalite": "francaise",
+    "Titre": "Affiche pour la f�te de la musique",
+    "Date_de_creation": 2010,
+    "Image": "image216.JPG",
+    "Couleur": "46,29,41"
+  },
+  {
+    "image": "",
+    "id": 217,
+    "Auteur": "Sylvia TOURNERIE",
+    "Nationalite": "francaise",
+    "Titre": "Affiche pour la f�te de la musique",
+    "Date_de_creation": 2010,
+    "Image": "image217.JPG",
+    "Couleur": "221,222,228"
+  },
+  {
+    "image": "",
+    "id": 218,
+    "Auteur": "Sylvia TOURNERIE",
+    "Nationalite": "francaise",
+    "Titre": "Affiche pour la f�te de la musique",
+    "Date_de_creation": 2010,
+    "Image": "image218.JPG",
+    "Couleur": "192,68,43"
+  },
+  {
+    "image": "",
+    "id": 219,
+    "Auteur": "Sylvia TOURNERIE",
+    "Nationalite": "francaise",
+    "Titre": "Affiche pour la f�te de la musique",
+    "Date_de_creation": 2010,
+    "Image": "image219.JPG",
+    "Couleur": "188,52,33"
+  },
+  {
+    "image": "",
+    "id": 220,
+    "Auteur": "Sylvia TOURNERIE",
+    "Nationalite": "francaise",
+    "Titre": "Affiche pour la f�te de la musique",
+    "Date_de_creation": 2010,
+    "Image": "image220.JPG",
+    "Couleur": "207,204,197"
+  },
+  {
+    "image": "",
+    "id": 221,
+    "Auteur": "Sylvia TOURNERIE",
+    "Nationalite": "francaise",
+    "Titre": "Affiche de la Saison Graphique",
+    "Date_de_creation": 2017,
+    "Image": "image221.jpg",
+    "Couleur": "67,66,71"
+  },
+  {
+    "image": "",
+    "id": 222,
+    "Auteur": "C�line VACH�-OLIVIERI",
+    "Nationalite": "francaise",
+    "Titre": "End of Peonies",
+    "Date_de_creation": 2015,
+    "Image": "image222.jpg",
+    "Couleur": "52,25,25"
+  },
+  {
+    "image": "",
+    "id": 223,
+    "Auteur": "Fabienne VERDIER (Fabienne BAIZEAU, dite)",
+    "Nationalite": "francaise",
+    "Titre": "Etude d'une affiche pour le Festival d'Avignon",
+    "Date_de_creation": 1998,
+    "Image": "image223.jpg",
+    "Couleur": "46,46,47"
+  },
+  {
+    "image": "",
+    "id": 224,
+    "Auteur": "Vanessa V�RILLON",
+    "Nationalite": "francaise",
+    "Titre": "Affiche 20�me festival international de l'affiche et du graphisme de Chaumont 16 mai - 14 juin 2009. Affiche Portrait",
+    "Date_de_creation": 2009,
+    "Image": "image224.JPG",
+    "Couleur": "205,177,214"
+  },
+  {
+    "image": "",
+    "id": 225,
+    "Auteur": "Vanessa V�RILLON",
+    "Nationalite": "francaise",
+    "Titre": "Affiche",
+    "Date_de_creation": 2009,
+    "Image": "image225.jpg",
+    "Couleur": "162,153,251"
+  },
+  {
+    "image": "",
+    "id": 226,
+    "Auteur": "Vanessa V�RILLON",
+    "Nationalite": "francaise",
+    "Titre": "Affiche",
+    "Date_de_creation": 2009,
+    "Image": "image226.jpg",
+    "Couleur": "162,153,251"
+  },
+  {
+    "image": "",
+    "id": 227,
+    "Auteur": "Vanessa V�RILLON",
+    "Nationalite": "francaise",
+    "Titre": "Affiche",
+    "Date_de_creation": 2009,
+    "Image": "image227.jpg",
+    "Couleur": "162,153,251"
+  },
+  {
+    "image": "",
+    "id": 228,
+    "Auteur": "Marijke van WARMERDAM",
+    "Nationalite": "neerlandaise",
+    "Titre": "sunday # 013. Gestreken en gevouwen",
+    "Date_de_creation": 2011,
+    "Image": "image228.jpg",
+    "Couleur": "224,218,213"
+  },
+  {
+    "image": "",
+    "id": 229,
+    "Auteur": "Nil YALTER",
+    "Nationalite": "francaise",
+    "Titre": "Affiche C'est un dur m�tier que l'exil",
+    "Date_de_creation": 2010,
+    "Image": "image229.jpg",
+    "Couleur": "207,205,204"
+  },
+  {
+    "image": "",
+    "id": 230,
+    "Auteur": "Catherine ZASK",
+    "Nationalite": "francaise",
+    "Titre": "Affiche Signes",
+    "Date_de_creation": 1995,
+    "Image": "image230.JPG",
+    "Couleur": "224,224,224"
+  },
+  {
+    "image": "",
+    "id": 231,
+    "Auteur": "Catherine ZASK",
+    "Nationalite": "francaise",
+    "Titre": "Affiche Impression Expression",
+    "Date_de_creation": 1997,
+    "Image": "image231.JPG",
+    "Couleur": "32,32,31"
+  },
+  {
+    "image": "",
+    "id": 232,
+    "Auteur": "Catherine ZASK",
+    "Nationalite": "francaise",
+    "Titre": "Affiche T�te d'or",
+    "Date_de_creation": 2001,
+    "Image": "image232.jpg",
+    "Couleur": "201,147,118"
+  },
+  {
+    "image": "",
+    "id": 233,
+    "Auteur": "Catherine ZASK",
+    "Nationalite": "francaise",
+    "Titre": "Affiche La radio dans le noir",
+    "Date_de_creation": 2008,
+    "Image": "image233.JPG",
+    "Couleur": "218,218,219"
+  },
+  {
+    "image": "",
+    "id": 234,
+    "Auteur": "Catherine ZASK",
+    "Nationalite": "francaise",
+    "Titre": "Affiche La radio dans le noir (blanc)",
+    "Date_de_creation": 2008,
+    "Image": "image234.JPG",
+    "Couleur": "213,213,212"
+  },
+  {
+    "image": "",
+    "id": 235,
+    "Auteur": "Catherine ZASK",
+    "Nationalite": "francaise",
+    "Titre": "Affiche La radio dans le noir (blanc)",
+    "Date_de_creation": 2008,
+    "Image": "image235.JPG",
+    "Couleur": "223,223,224"
+  },
+  {
+    "image": "",
+    "id": 236,
+    "Auteur": "Catherine ZASK",
+    "Nationalite": "francaise",
+    "Titre": "Affiche Hearth",
+    "Date_de_creation": 2010,
+    "Image": "image236.JPG",
+    "Couleur": "66,49,72"
+  }
+]
